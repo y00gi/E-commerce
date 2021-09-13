@@ -60,19 +60,19 @@
 
 .grocery{
     position: absolute;
-    width: 50vw;
-    height: 40vh;
-    left: 40vw;
+    width: 68vw;
+    height: 280px;
+    left: 30vw;
     top: 70px;
 }
 
 .text{
     position: absolute;
-    width: 30vw;
-    height: 40vh;
-    top: 60px;
-    left: 20px;
-    font-size: 3.5em;
+    width: 25vw;
+    height: 200px;
+    top: 100px;
+    left: 1vw;
+    font-size: 3em;
     text-align: right;
 }
 
